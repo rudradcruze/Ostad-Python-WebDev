@@ -1,0 +1,11 @@
+:root {
+	--colorPrimary: #333;
+	--fontPrimary: "Roboto", sans-serif;
+	--fontSize: 2rem;
+}
+
+p {
+	color: var(--colorPrimary);
+	font-family: var(--fontPrimary);
+	font-size: var(--fontSize);
+}
