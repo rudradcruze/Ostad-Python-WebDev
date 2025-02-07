@@ -4,6 +4,17 @@
 
 ![ GitHub followers ](https://img.shields.io/github/followers/rudradcruze?style=social) ![ GitHub Repo stars ](https://img.shields.io/github/stars/rudradcruze/Ostad-Python-WebDev?style=social) ![ GitHub repo size ](https://img.shields.io/github/repo-size/rudradcruze/Ostad-Python-WebDev) ![ YouTube Channel Subscribers ](https://img.shields.io/youtube/channel/subscribers/UCTZN1mzW0AwackW7axf7-OQ?style=social) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](/LICENSE)
 
+## [Module 1: [Start] Run Your First Code](./module_1/README.md)
+
+-   Python Django Web Essentials
+-   Run your first code in Python
+
+## [Module 2: [Python] Working with Data, Control Flow & Data Structures](./module_2/README.md)
+
+-   Strings and Conditional Statement
+-   Loops and Built-in Data Structures
+-   Problem Solving with Python
+
 ## 🚀 About Me
 
 Tech-savvy designer/programmer pushing boundaries of online tech. Passionate about new tools, seeking challenges to advance skills.
