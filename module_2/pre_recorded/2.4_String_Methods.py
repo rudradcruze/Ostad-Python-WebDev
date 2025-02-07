@@ -1,4 +1,4 @@
-a = "francis rudra d cruze"
+a = "Francis ruDra d cruze"
 
 print(a.title())
 print(a)
