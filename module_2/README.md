@@ -40,3 +40,4 @@
 -   [Lecture 1: Tamim - https://tamim.github.io/pytutorial/](https://tamim.github.io/pytutorial/)
 -   [Lecture 1.1 (Tamim): Tutorial 1 - Introduction to Python](./lecture/1-complete-python-tutorial-1.pdf)
 -   [Lecture 1.2: Tutorial 2: Control Flow](./lecture/2-python-control-flow.pdf)
+-   [Problem Solving Solutions - Loops and Build in Data Structures](./lecture/Loops%20and%20Built%20in%20Data%20Structures.zip)
