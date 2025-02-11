@@ -15,6 +15,11 @@
 -   Loops and Built-in Data Structures
 -   Problem Solving with Python
 
+## [Module 3: [Python] Functions, File Handling & Error Handling](./module_3/README.md)
+
+-   Functions and File Handling
+-   Handling Files and Exceptions
+
 ## 🚀 About Me
 
 Tech-savvy designer/programmer pushing boundaries of online tech. Passionate about new tools, seeking challenges to advance skills.
