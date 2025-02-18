@@ -20,6 +20,11 @@
 -   Functions and File Handling
 -   Handling Files and Exceptions
 
+## [Module 4: [Python] Object Oriented Programming](./module_4/README.md)
+
+-   Python OOP Essentials
+-   Four Pillars of OOP
+
 ## 🚀 About Me
 
 Tech-savvy designer/programmer pushing boundaries of online tech. Passionate about new tools, seeking challenges to advance skills.
