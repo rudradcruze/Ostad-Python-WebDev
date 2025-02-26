@@ -40,3 +40,7 @@ programming.code-workspace
 ehthumbs.db
 Thumbs.db
 *.idea
+*/__pycache__
+*.pyc
+/__pycache__ 
+__pycache__
