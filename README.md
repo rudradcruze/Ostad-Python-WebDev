@@ -25,6 +25,11 @@
 -   Python OOP Essentials
 -   Four Pillars of OOP
 
+## [Module 5: [Python] Module, JSON, Date Time](./module_5/README.md)
+
+-   Exploring Python Modules and Packages
+-   Handling Dates JSON and APIs
+
 ## 🚀 About Me
 
 Tech-savvy designer/programmer pushing boundaries of online tech. Passionate about new tools, seeking challenges to advance skills.

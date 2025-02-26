@@ -1,4 +1,4 @@
-# Module 3: [Python] Object Oriented Programming
+# Module 4: [Python] Object Oriented Programming
 
 ## Course Modules
 
