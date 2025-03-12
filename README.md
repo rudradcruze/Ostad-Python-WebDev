@@ -30,6 +30,13 @@
 -   Exploring Python Modules and Packages
 -   Handling Dates JSON and APIs
 
+## Module 6: Exam Week 1
+
+-   Exam Week 1 - [Question Paper](./module_6/Exam%20Week%201.pdf)
+-   Exam Week 1 - [Solution](./module_6/bookstore-python-cli/README.md)
+-   Live Test 1 - [Question Paper](./module_6/Live%20Test%201.pdf)
+-   Live Test 1 - [Solution](./module_6/live_test_1.py)
+
 ## 🚀 About Me
 
 Tech-savvy designer/programmer pushing boundaries of online tech. Passionate about new tools, seeking challenges to advance skills.
