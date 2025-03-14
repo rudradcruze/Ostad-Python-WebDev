@@ -37,6 +37,12 @@
 -   Live Test 1 - [Question Paper](./module_6/Live%20Test%201.pdf)
 -   Live Test 1 - [Solution](./module_6/live_test_1.py)
 
+## [Module 7: [SQL] SQL Basics](./module_7/README.md)
+
+-   SQL Basics
+-   Sorting, Filtering & Joins
+-   Problem Solving Class
+
 ## 🚀 About Me
 
 Tech-savvy designer/programmer pushing boundaries of online tech. Passionate about new tools, seeking challenges to advance skills.
