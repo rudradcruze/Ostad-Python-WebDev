@@ -1,4 +1,4 @@
-# Module 7: [SQL] SQL Basics
+# Module 7: [SQL] SQL Advanced
 
 ## Course Modules
 

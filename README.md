@@ -43,6 +43,17 @@
 -   Sorting, Filtering & Joins
 -   Problem Solving Class
 
+## [Module 8: [SQL] SQL Advanced](./module_8/README.md)
+
+-   Subquery
+-   ER Diagram
+-   Problem Solving Class
+
+## [Module 9: [HTML] HTML & Web Page Structure](./module_9/README.md)
+
+-   Basic HTML Syntax
+-   Advanced HTML
+
 ## 🚀 About Me
 
 Tech-savvy designer/programmer pushing boundaries of online tech. Passionate about new tools, seeking challenges to advance skills.
