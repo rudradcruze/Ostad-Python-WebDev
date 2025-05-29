@@ -63,6 +63,15 @@
 -   Basic CSS and Making Website Responsive
 -   Making Website Responsive
 
+## [Module 12: [JavaScript] JavaScript Foundation](./module_12/README.md)
+
+-   JavaScript Basics
+-   DOM Manipulation
+
+## [Module 13: Revise & Rise: Recap Module](./module_13/README.md)
+
+-   Revise & Rise: Recap Module
+
 ## 🚀 About Me
 
 Tech-savvy designer/programmer pushing boundaries of online tech. Passionate about new tools, seeking challenges to advance skills.
