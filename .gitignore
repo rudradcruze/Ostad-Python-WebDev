@@ -21,7 +21,7 @@ programming.code-workspace
 *.jar
 *.rar
 *.tar
-*.zip
+# *.zip
 
 # Logs and databases #
 ######################
@@ -43,3 +43,5 @@ Thumbs.db
 *.pyc
 /__pycache__ 
 __pycache__
+
+*test*

@@ -58,6 +58,11 @@
 
 -   Holiday Break
 
+## [Module 11: [CSS] The Art of Styling the Web](./module_11/README.md)
+
+-   Basic CSS and Making Website Responsive
+-   Making Website Responsive
+
 ## 🚀 About Me
 
 Tech-savvy designer/programmer pushing boundaries of online tech. Passionate about new tools, seeking challenges to advance skills.
