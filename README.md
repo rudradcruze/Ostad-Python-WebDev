@@ -54,6 +54,10 @@
 -   Basic HTML Syntax
 -   Advanced HTML
 
+## [Module 10: Break - Holiday](./module_10/README.md)
+
+-   Holiday Break
+
 ## 🚀 About Me
 
 Tech-savvy designer/programmer pushing boundaries of online tech. Passionate about new tools, seeking challenges to advance skills.

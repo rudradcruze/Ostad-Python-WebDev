@@ -1,4 +1,4 @@
-# Module 7: HTML & Web Page Structure
+# Module 9: HTML & Web Page Structure
 
 ## Course Modules
 
@@ -19,8 +19,8 @@
 ### 2. **Advanced HTML**
 
 -   Forms: Basics
--   <select> with <option> for dropdowns
--   <input> types like checkbox, radio, and file
+-   `<select> with <option>` for dropdowns
+-   `<input>` types like checkbox, radio, and file
 -   Form validation with attributes like required, minlength, and maxlength
 -   Semantic HTML Elements
 -   Attributes like id, class, style, and title
