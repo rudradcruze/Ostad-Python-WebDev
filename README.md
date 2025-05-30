@@ -72,6 +72,11 @@
 
 -   Revise & Rise: Recap Module
 
+## [Module 14: [Tailwind CSS] Advanced CSS with Tailwind Framework](./module_14/README.md)
+
+-   Mastering Utility-First Design: Advanced Tailwind CSS Techniques
+-   Building Complex Layouts with Tailwind CSS: From Concepts to Components
+
 ## 🚀 About Me
 
 Tech-savvy designer/programmer pushing boundaries of online tech. Passionate about new tools, seeking challenges to advance skills.
