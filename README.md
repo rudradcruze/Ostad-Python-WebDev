@@ -77,6 +77,11 @@
 -   Mastering Utility-First Design: Advanced Tailwind CSS Techniques
 -   Building Complex Layouts with Tailwind CSS: From Concepts to Components
 
+## [Module 15: [JavaScript] JavaScript Flashback](./module_15/README.md)
+
+-   JavaScript and Python Resources & Practice Techniques
+-   DOM Manipulation
+
 ## 🚀 About Me
 
 Tech-savvy designer/programmer pushing boundaries of online tech. Passionate about new tools, seeking challenges to advance skills.
